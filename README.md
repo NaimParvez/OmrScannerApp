@@ -32,7 +32,6 @@ OMR Scanner android app made using OpenCV Android SDK capable of recognising sim
 ![Alt Text](https://github.com/NaimParvez/OmrScannerApp/assets/116740784/e2efd093-1582-42ef-a307-d666bd527120)
 
 ## Here is a test answer sheet.
-<p> <img hspace="10" src="https://github.com/NaimParvez/OmrScannerApp/assets/116740784/553110dd-9b88-485c-89d2-3f2319bf6f98
-" width =200 
+<p> <img hspace="10" src="https://github.com/NaimParvez/OmrScannerApp/assets/116740784/387c9ba5-4e84-433c-8ccb-2f62dfd6ebe8" width =200 
   height = 350/></p>
 
