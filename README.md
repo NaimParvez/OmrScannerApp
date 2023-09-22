@@ -15,7 +15,7 @@ OMR Scanner android app made using OpenCV Android SDK capable of recognising sim
   height = 350/>
 <img hspace="10" src="https://github.com/NaimParvez/OmrScannerApp/assets/116740784/4f01fb9a-b004-4ef0-9864-f7e11d5e45ec" width =200 
   height = 350/>
-<img hspace="10" src="(https://github.com/NaimParvez/OmrScannerApp/assets/116740784/446fe286-1358-4541-959a-7825c8d72379)" width =200 
+<img hspace="10" src="https://github.com/NaimParvez/OmrScannerApp/assets/116740784/446fe286-1358-4541-959a-7825c8d72379" width =200 
   height = 350/>
 </p>
 
@@ -24,7 +24,7 @@ OMR Scanner android app made using OpenCV Android SDK capable of recognising sim
 ### Can recognise upto 20 question blocks and more.
 ##
 ## Uses Otsu's Thresholding method to invert the foreground and background colors to detect filled bubble with ease and less effort.
-<p> <img hspace="10" src="(https://github.com/NaimParvez/OmrScannerApp/assets/116740784/1f1a834b-5a5e-42d4-b326-387422f2e0e8)
+<p> <img hspace="10" src="https://github.com/NaimParvez/OmrScannerApp/assets/116740784/1f1a834b-5a5e-42d4-b326-387422f2e0e8
 " width =200 
   height = 350/></p>
  
