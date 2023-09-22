@@ -8,3 +8,4 @@ OMR Scanner android app made using OpenCV Android SDK capable of recognising sim
 ### Can save an answer key and also modify existing ones within the app.
 
 
+![how_threshold_works](https://github.com/NaimParvez/OmrScannerApp/assets/116740784/e2efd093-1582-42ef-a307-d666bd527120)
