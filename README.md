@@ -15,7 +15,7 @@ OMR Scanner android app made using OpenCV Android SDK capable of recognising sim
   height = 350/>
 <img hspace="10" src="https://github.com/NaimParvez/OmrScannerApp/assets/116740784/4f01fb9a-b004-4ef0-9864-f7e11d5e45ec" width =200 
   height = 350/>
-<img hspace="10" src="![WhatsApp Image 2023-09-22 at 21 50 42](https://github.com/NaimParvez/OmrScannerApp/assets/116740784/ade476d8-1be2-499b-a10d-206e87c01170)" width =200 
+<img hspace="10" src="(https://github.com/NaimParvez/OmrScannerApp/assets/116740784/446fe286-1358-4541-959a-7825c8d72379)" width =200 
   height = 350/>
 </p>
 
