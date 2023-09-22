@@ -8,16 +8,14 @@ OMR Scanner android app made using OpenCV Android SDK capable of recognising sim
 ### Can save an answer key and also modify existing ones within the app.
 
 
-![Screenshot 2023-09-17 203820](https://github.com/NaimParvez/OmrScannerApp/assets/116740784/c7967682-bdea-490f-bf2e-961c9585fa5b)
-![Screenshot 2023-09-17 203801](https://github.com/NaimParvez/OmrScannerApp/assets/116740784/1a720abe-88bb-4810-bb79-bc81634b43a4)
-![Screenshot 2023-09-17 203649](https://github.com/NaimParvez/OmrScannerApp/assets/116740784/4f01fb9a-b004-4ef0-9864-f7e11d5e45ec)
+
 <p> <img hspace="10" src="https://github.com/NaimParvez/OmrScannerApp/assets/116740784/c7967682-bdea-490f-bf2e-961c9585fa5b" width =200 
   height = 350/>
 <img hspace="10" src="https://github.com/NaimParvez/OmrScannerApp/assets/116740784/1a720abe-88bb-4810-bb79-bc81634b43a4" width =200 
   height = 350/>
 <img hspace="10" src="https://github.com/NaimParvez/OmrScannerApp/assets/116740784/4f01fb9a-b004-4ef0-9864-f7e11d5e45ec" width =200 
   height = 350/>
-<img hspace="10" src="https://github.com/KunalFarmah98/Optical-Mark-Recognition-Android/blob/main/app/src/main/res/raw/s4.jpeg" width =200 
+<img hspace="10" src="(https://github.com/NaimParvez/OmrScannerApp/assets/116740784/ade476d8-1be2-499b-a10d-206e87c01170)" width =200 
   height = 350/>
 </p>
 
@@ -30,7 +28,7 @@ OMR Scanner android app made using OpenCV Android SDK capable of recognising sim
   height = 350/></p>
  
 ## This is an example on how it works
-![Alt Text](https://github.com/KunalFarmah98/Optical-Mark-Recognition-Android/blob/main/app/src/main/res/raw/how_threshold_works.gif)
+![Alt Text](https://github.com/NaimParvez/OmrScannerApp/assets/116740784/e2efd093-1582-42ef-a307-d666bd527120)
 
 ## See the app in action.
 ## Working of the app on 2 different OMR sheets taken stright from the computer screen.
